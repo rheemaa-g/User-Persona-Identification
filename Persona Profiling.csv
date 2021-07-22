@@ -1,0 +1,116 @@
+Timestamp,AGE,OCCUPATION,ANNUAL INCOME,CITY,GENDER,INTERESTS,DAILY_HOUR_ONLINE,MOST_TIME_ON,PREV_SUBSCRIPTIONS,SCROLL,ABOUT_US,SUBSCRIBE,SEARCH,CAT_Internet,CAT_Technology,CAT_Finance,CAT_Health,CAT_Society,REGISTER,VOTE_ARTICLE,SHARE_MEDIA,LEAVE
+07-09-2021 20:41,25,Student,0,mumbai,Male,Sports,6,"Instagram, Twitter, Google Browsing, LinkedIn",Yes,5,3,4,2,2,5,4,3,2,4,3,4,1
+07-09-2021 22:16,21,Student,0,mumbai,Female,"Technology and Internet, Current Affairs",4,"Instagram, Google Browsing, YouTube",No,3,3,2,4,5,5,4,4,4,3,2,2,1
+07-09-2021 22:18,21,Student,10000,mumbai,Female,"Sports, Music & Dance, Books & Movies, Politics and Law, Stocks, Shares & Finances",2,"Instagram, Google Browsing",Yes,3,5,3,4,4,3,5,5,5,2,3,2,1
+07-09-2021 22:20,22,Student,0,mumbai,Male,"Sports, Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",8,Instagram,No,5,3,4,5,5,5,5,5,5,3,4,5,3
+07-09-2021 22:21,24,Student,0,mumbai,Male,"Sports, Technology and Internet, Current Affairs",4,"Twitter, Google Browsing, Youtube",Yes,5,2,1,4,1,5,5,1,1,1,5,1,1
+07-09-2021 22:21,21,Student,0,mumbai,Male,"Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Stocks, Shares & Finances",8,"Instagram, Facebook, Google Browsing, YouTube",No,3,3,2,2,3,3,4,4,1,4,5,5,3
+07-09-2021 22:24,22,Freelancer,60000,mumbai,Female,"Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Politics and Law",6,"Instagram, Google Browsing, Pinterest, LinkedIn, Clubhouse",Yes,5,4,3,4,3,4,3,5,4,2,1,4,2
+07-09-2021 22:27,22,Student,0,mumbai,Male,"Sports, Music & Dance, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",2,"Instagram, WhatsApp",No,5,3,1,2,2,2,2,2,2,2,1,2,2
+07-09-2021 22:27,24,Student,24,mumbai,Female,"Music & Dance, Books & Movies, Current Affairs, Stocks, Shares & Finances",6,"Instagram, Facebook, Google Browsing",No,5,4,5,4,3,4,3,4,4,3,3,3,5
+07-09-2021 22:30,21,Student,25000,mumbai,Male,"Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs",8,"Instagram, Facebook, Google Browsing, Pinterest",Yes,5,5,5,4,4,4,4,4,5,5,5,5,5
+07-09-2021 22:32,23,Student,0,mumbai,Female,"Sports, Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",12,"Instagram, Google Browsing",No,5,5,5,5,5,4,4,4,3,4,5,4,1
+07-09-2021 22:35,22,Employed at a Digital Business Agency,700000,mumbai,Female,Music & Dance,9,Instagram,Yes,5,4,3,4,5,5,2,3,3,2,2,2,1
+07-09-2021 22:35,22,Unemployed,0,mumbai,Female,"Sports, Arts & Craft, Music & Dance, Books & Movies, Current Affairs",4,"Instagram, Google Browsing",Yes,5,1,3,1,1,1,1,1,1,1,4,4,1
+07-09-2021 22:36,22,Student,200000,mumbai,Female,"Music & Dance, Books & Movies, Technology and Internet",8,"Instagram, Facebook, Google Browsing",No,2,2,2,2,2,2,2,2,2,2,2,2,2
+07-09-2021 22:37,23,Student,0,mumbai,Male,"Sports, Books & Movies, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",3,"Whatsapp , YouTube",No,5,4,3,4,4,4,4,4,4,4,4,5,5
+07-09-2021 22:37,20,Student,0,mumbai,Male,"Sports, Music & Dance, Books & Movies, Technology and Internet, Current Affairs",12,"Instagram, Facebook, LinkedIn,Whatsapp",No,3,5,4,5,5,5,1,1,1,1,4,4,1
+07-09-2021 22:41,22,Student,10000,mumbai,Male,"Current Affairs, Politics and Law, Stocks, Shares & Finances",6,"Instagram, Facebook, Twitter, Google Browsing",Yes,4,4,5,4,4,5,4,3,4,5,3,4,4
+07-09-2021 22:42,23,Student,10000,mumbai,Female,"Arts & Craft, Music & Dance, Books & Movies",10,"Instagram, Google Browsing",No,5,3,1,1,1,1,1,1,1,2,2,2,2
+07-09-2021 22:42,22,Student,0,mumbai,Female,"Sports, Arts & Craft, Music & Dance, Books & Movies, Technology and Internet",2,Instagram,No,2,5,4,5,3,4,2,5,4,2,4,5,1
+07-09-2021 22:44,21,Student,0,mumbai,Female,"Arts & Craft, Music & Dance, Politics and Law, Stocks, Shares & Finances",3,"Instagram, Google Browsing",Yes,3,3,3,3,3,3,3,3,3,3,3,3,3
+07-09-2021 22:46,24,Student,10000,mumbai,Male,"Technology and Internet, Current Affairs, Politics and Law",2,"Instagram, Google Browsing",Yes,3,3,1,3,2,3,1,1,1,1,1,3,2
+07-09-2021 22:51,22,Student,0,mumbai,Male,"Sports, Books & Movies",8,"Twitter, Google Browsing",No,2,4,1,2,2,2,1,2,2,1,3,3,2
+07-09-2021 22:59,24,Student,0,mumbai,Male,"Sports, Stocks, Shares & Finances",5,Instagram,Yes,2,1,1,3,1,1,4,1,1,1,1,1,4
+07-09-2021 23:05,19,Student,1500,mumbai,Male,"Sports, Music & Dance, Books & Movies",2,"Instagram, Pinterest",Yes,3,4,3,3,3,3,3,3,3,3,3,3,3
+07-09-2021 23:08,20,Student,10000,mumbai,Male,"Sports, Music & Dance, Technology and Internet, Stocks, Shares & Finances",5,"Instagram, Facebook, Google Browsing",No,1,4,3,3,3,4,4,4,4,3,3,3,1
+07-09-2021 23:10,22,Unemployed,0,mumbai,Female,"Sports, Arts & Craft, Music & Dance, Books & Movies, Current Affairs",6,"Instagram, Twitter, Google Browsing, Pinterest",Yes,5,2,3,2,1,2,3,4,4,3,2,5,2
+07-09-2021 23:13,21,Student,500000,mumbai,Male,"Sports, Books & Movies, Technology and Internet, Current Affairs, Politics and Law, anime",10,"Instagram, Twitter, Google Browsing, Youtube",No,2,3,3,5,4,5,5,5,4,3,4,5,2
+07-09-2021 23:18,22,Student,0,Thane,Female,"Music & Dance, Books & Movies, Current Affairs, Politics and Law",6,"Instagram, Facebook, Google Browsing",Yes,5,4,2,5,3,2,3,3,4,1,3,3,1
+07-09-2021 23:18,22,Student,5000,mumbai,Male,"Sports, Arts & Craft, Books & Movies, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",15,"Instagram, Twitter, Google Browsing",Yes,5,5,3,3,3,4,5,3,2,3,4,3,2
+07-09-2021 23:23,21,Business/start-up Owner,0,mumbai,Female,"Sports, Arts & Craft, Music & Dance, Books & Movies",6,"Instagram, Google Browsing",Yes,5,4,3,2,5,3,1,2,2,2,4,5,1
+07-09-2021 23:39,32,IT,1000000,Mumbai,Male,"Sports, Technology and Internet",6,"Instagram, Facebook, Google Browsing",No,5,4,3,3,3,3,3,4,3,3,5,4,1
+07-09-2021 23:39,21,Student,0,Mumbai,Female,"Sports, Music & Dance, Books & Movies",10,"Instagram, Google Browsing",Yes,3,1,1,2,4,3,2,5,3,3,2,3,5
+07-09-2021 23:55,23,Student,0,Mumbai,Female,"Sports, Music & Dance, Stocks, Shares & Finances",3,"Instagram, Google Browsing",No,5,5,4,3,4,4,4,4,4,4,4,4,4
+07-09-2021 23:55,21,Freelancer,60000,Mumbai,Female,"Arts & Craft, Music & Dance, Books & Movies, Technology and Internet",9,"Instagram, Facebook, Google Browsing",No,3,2,4,3,5,5,4,5,4,5,5,3,1
+07-10-2021 00:07,22,Unemployed,0,Mumbai,Female,"Books & Movies, Technology and Internet, Stocks, Shares & Finances",8,"Instagram, Facebook, Google Browsing, YouTube",No,5,4,1,2,2,2,2,2,2,1,1,1,1
+07-10-2021 00:07,23,Unemployed,0,Mumbai,Male,"Sports, Music & Dance, Technology and Internet",2,Instagram,No,5,5,5,5,5,5,5,5,5,5,5,5,4
+07-10-2021 00:15,22,Student,0,Thane,Male,Music & Dance,6,Instagram,No,4,4,4,4,4,4,4,4,4,4,4,4,4
+07-10-2021 00:19,19,Student,0,Mumbai,Female,"Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs",4,"Instagram, Google Browsing",No,5,2,2,4,3,1,4,4,5,2,4,4,1
+07-10-2021 01:55,48,Pvt Ltd company,500000,Mumbai,Female,Music & Dance,1,Facebook,No,3,4,3,2,3,1,3,3,3,1,1,3,1
+07-10-2021 07:39,23,Student,20000,Badlapur,Male,"Sports, Books & Movies, Technology and Internet",4,"Instagram, Google Browsing",Yes,2,2,3,5,2,2,2,2,3,2,2,3,1
+07-10-2021 08:04,22,Student,0,Kalyan,Female,"Music & Dance, Current Affairs, Stocks, Shares & Finances",5,"Instagram, Google Browsing",No,3,4,5,5,4,4,3,3,5,3,5,5,1
+07-10-2021 11:02,21,Student,25000,mumbai,Male,"Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs",8,"Instagram, Facebook, Google Browsing, Pinterest",Yes,5,5,5,4,4,4,4,4,5,5,5,5,5
+07-10-2021 11:03,21,Student,25000,mumbai,Male,"Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs",8,"Instagram, Facebook, Google Browsing, Pinterest",Yes,5,5,5,4,4,4,4,4,5,5,5,5,5
+07-10-2021 12:07,22,Student,0,Mumbai,Female,"Arts & Craft, Shinchan ?",5,"Google Browsing, YouTube",No,5,1,1,2,3,2,1,2,3,1,3,3,1
+07-10-2021 12:31,25,Student,0,Surat,Female,"Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Politics and Law",2,"Instagram, Google Browsing",No,5,2,3,4,4,4,3,3,4,2,3,5,1
+07-10-2021 15:02,999,Unemployed,-10000,Earth,Asexual,Sex,0,Pornhub,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1
+07-10-2021 17:26,27,Student,20000,Aurangabad,Male,"Sports, Books & Movies, Technology and Internet, Stocks, Shares & Finances",3,"Instagram, Google Browsing",Yes,3,1,1,5,4,4,5,4,2,1,2,3,1
+07-10-2021 18:42,32,Employed in an Educational Institute,250000,Mumbai,Female,Books & Movies,2,"Instagram, Facebook, Twitter, Google Browsing, Pinterest",No,5,4,3,5,5,3,3,4,4,5,4,4,4
+07-10-2021 19:10,19,Student,0,Kalyan,Female,Sports,8,"Instagram, Google Browsing, Pinterest",No,5,2,1,3,4,4,2,2,3,1,3,5,1
+07-11-2021 14:55,24,Student,0,Thane,Female,"Sports, Arts & Craft",4,"Google Browsing, Youtube",No,4,1,1,5,5,1,1,1,1,1,1,1,1
+07-11-2021 16:58,20,Student,0,Mumbai,Male,"Sports, Books & Movies, Current Affairs, Politics and Law, Stocks, Shares & Finances",5,"Twitter, Google Browsing",No,1,5,3,5,4,4,4,4,4,4,4,5,1
+07-12-2021 15:57,28,Business/start-up Owner,,Mumbai,Female,"Books & Movies, Technology and Internet, Stocks, Shares & Finances",3,"Instagram, Google Browsing",No,5,4,3,3,3,3,2,3,2,1,3,2,3
+07-12-2021 16:09,41,private sector employee,5000000,Thane,Male,"Sports, Music & Dance, Books & Movies",2,"Facebook, Google Browsing",No,5,2,1,4,3,3,3,3,1,1,2,3,2
+07-12-2021 20:04,40,E commerce,1700000,Thane,Male,"Sports, Music & Dance, Stocks, Shares & Finances",5,"Instagram, Facebook, Google Browsing",No,3,1,1,1,3,1,2,1,1,1,4,5,3
+7/16/2021 13:28:11,46,Freelancer,1000000,Mumbai,Female,"Arts & Craft, Music & Dance, Socialising",6,"Facebook, Google Browsing",No,1,1,1,1,1,1,1,5,1,1,5,5,4
+7/16/2021 13:34:08,53,House wife,300000,Mumbai,Female,Music & Dance,4,Facebook,No,1,4,2,5,5,4,3,4,2,1,1,2,2
+7/16/2021 13:34:53,49,Unemployed,,Mumbai,Female,"Arts & Craft, Makeup",4,Youtube,No,4,4,4,4,4,4,4,4,4,4,4,4,4
+7/16/2021 13:35:32,52,Employed in private company,,Mumbai,Female,"Music & Dance, Books & Movies, Current Affairs",8,"Instagram, Facebook, Google Browsing, Pinterest",No,5,5,5,5,5,5,5,5,5,5,5,5,5
+7/16/2021 13:45:02,67,Retired,2000000,Mumbai,Female,Music & Dance,4,Facebook,No,3,2,2,3,3,2,2,3,1,1,1,3,1
+7/16/2021 13:46:50,57,House wife,100000,Mumbai,Female,Sports,2,Facebook,No,1,3,2,2,1,2,1,2,2,3,2,3,2
+7/16/2021 13:48:43,57,Retired1,100000,Mumbai,Female,Music & Dance,2,Google Browsing,No,1,2,1,2,2,1,3,2,3,2,2,2,3
+7/16/2021 13:49:10,64,Unemployed,,Mumbai,Female,Music & Dance,4,Facebook,No,4,4,5,5,4,5,4,5,5,4,4,5,4
+7/16/2021 13:50:04,60,Airline,1500000,Mumbai,Male,"Sports, Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",7,"Facebook, Google Browsing",Yes,5,5,4,5,5,5,5,5,5,4,5,5,4
+7/16/2021 14:04:15,54,Unemployed,,Mumbai,Male,"Sports, Music & Dance",5,"Instagram, Facebook, What’s app",No,4,5,4,5,4,5,4,5,4,3,4,5,4
+7/16/2021 14:05:43,48,Unemployed,,Mumbai,Female,Books & Movies,2,"Facebook, Whats app",No,4,4,5,5,3,3,3,5,5,4,3,5,3
+7/16/2021 14:08:23,44,Unemployed,,Mumbai,Female,"Arts & Craft, Music & Dance",2,"Google Browsing, Whats app",No,4,2,1,5,5,3,1,5,2,1,2,3,3
+7/16/2021 14:13:18,40,Housewife,,Mumbai,Female,Music & Dance,5,Whatsapp,No,3,2,1,4,4,2,2,2,1,1,1,3,2
+7/16/2021 14:16:31,55,Retired,0,Thane,Male,"Sports, Politics and Law, Stocks, Shares & Finances",6,"Facebook, Google Browsing, Apps",Yes,2,3,5,3,3,4,3,5,3,3,5,5,5
+7/16/2021 14:16:58,53,Telecommunication,1600000,Dubai UAE,Female,"Music & Dance, Stocks, Shares & Finances",5,"Google Browsing, WhatsApp",Yes,3,4,3,3,5,3,5,5,3,3,4,3,3
+7/16/2021 14:33:23,38,Weight loss councillor,100000,Mumbai,Female,"Sports, Arts & Craft, Music & Dance",4,"Wassup, YouTube",No,5,4,5,4,5,4,4,5,4,4,4,5,4
+7/16/2021 14:39:03,56,Construction,120000,Mumbai,Male,Sports,2,Pinterest,No,5,5,5,5,5,5,5,5,5,5,5,5,5
+7/16/2021 14:40:13,29,Working in tcs,700000,Mumbai,Female,"Arts & Craft, Music & Dance, Technology and Internet, Baking and cooking",5,"Instagram, Google Browsing",No,5,5,5,5,5,5,5,5,5,5,5,5,5
+7/16/2021 14:55:24,35,Software Professional,2500000,Mumbai,Female,"Sports, Music & Dance, Books & Movies, Technology and Internet, Current Affairs",14,"Instagram, Google Browsing, Office work",No,5,2,3,4,4,4,4,4,4,2,3,2,1
+7/16/2021 15:35:28,47,Employed in an Educational Institute,700000,Mumbai,Female,"Music & Dance, Cooking . Explore new places",4,"Google Browsing, Whatsapp",No,3,3,1,1,1,1,1,2,3,1,2,2,1
+7/16/2021 17:11:18,40,Working for a bank,1300000,Mulund,Female,"Music & Dance, Books & Movies",2,"Facebook, WhatsApp",No,3,3,3,5,5,5,5,5,5,3,3,3,3
+7/16/2021 19:42:27,50,Housewife,0,Mumbai,Female,Beauty,2,Facebook,No,5,4,5,1,1,1,1,1,1,1,1,1,3
+7/16/2021 20:09:06,35,Software Professional,2500000,Mumbai,Female,"Sports, Music & Dance, Books & Movies, Technology and Internet, Current Affairs",14,"Instagram, Google Browsing, Office work",No,5,2,3,4,4,4,4,4,4,2,3,2,1
+7/16/2021 21:32:26,58,Unemployed,20000,Mumbai,Female,Music & Dance,4,"Instagram, Facebook, Twitter",No,4,5,4,4,5,5,5,5,5,5,5,5,5
+7/16/2021 21:38:33,40,salaried,350000,Mumbai,Female,Music & Dance,3,Facebook,No,3,3,3,3,5,4,4,4,3,3,3,4,3
+7/16/2021 23:37:03,46,House wife,,Mumbai,Female,"Sports, Arts & Craft, Books & Movies",3,Google Browsing,No,3,3,3,3,3,3,3,3,3,3,3,3,3
+7/17/2021 0:12:00,52,Unemployed,,Mumbai,Female,"Arts & Craft, Music & Dance",2,Whatsapp,No,5,3,3,4,5,3,3,3,2,3,3,3,3
+7/17/2021 13:54:31,40,Employed in an Educational Institute,,Mumbai,Female,"Sports, Arts & Craft, Music & Dance, Books & Movies, Technology and Internet",5,"Instagram, Google Browsing, Pinterest",Yes,5,5,5,5,4,4,4,4,4,4,4,4,3
+7/17/2021 18:25:02,54,Unemployed,0,Mumbai,Female,Arts & Craft,2,Facebook,No,5,3,3,3,3,3,3,3,3,3,3,3,5
+7/17/2021 19:03:35,50,Taking tuitions,100000,Mumbai,Female,"Arts & Craft, Books & Movies",2,Facebook,No,3,2,3,5,3,1,1,2,1,1,1,1,4
+7/19/2021 21:04:44,22,Student,0,new delhi,Female,"Sports, Arts & Craft, Music & Dance",12,"Instagram, Google Browsing",No,3,4,2,5,4,4,2,3,2,4,1,2,1
+7/19/2021 21:04:49,22,Student,0,Katni,Male,"Sports, Current Affairs",5,"Google Browsing, Youtube",Yes,3,1,1,5,2,2,1,1,1,1,1,1,1
+7/19/2021 21:04:58,21,Student,,Katni,Female,"Sports, Arts & Craft, Stocks, Shares & Finances",6,"Instagram, Pinterest",No,3,4,3,3,3,3,5,3,3,3,3,5,5
+7/19/2021 21:16:22,23,Student,10000000,Dehradun,Male,"Sports, Music & Dance, Books & Movies, Current Affairs, Politics and Law",6,"Instagram, Twitter, Google Browsing",Yes,4,3,4,5,4,4,3,4,4,5,5,3,5
+7/19/2021 21:23:04,21,Student,0,Delhi,Female,"Music & Dance, Books & Movies, Technology and Internet, Current Affairs",7,"Instagram, Google Browsing",No,4,4,4,4,4,4,4,4,4,4,4,4,4
+7/19/2021 21:23:28,22,Student,0,Delhi,Female,"Sports, Music & Dance, Books & Movies, Stocks, Shares & Finances",24,"Instagram, Facebook, Twitter, Google Browsing",No,5,4,5,4,5,4,5,4,5,4,5,4,5
+7/19/2021 22:01:00,22,Student,0,Haridwar,Female,"Arts & Craft, Music & Dance, Books & Movies, Stocks, Shares & Finances, Yoga",11,"Instagram, Pinterest, Ms teams",Yes,3,5,3,4,3,3,4,4,3,3,4,3,3
+7/20/2021 19:42:56,21,Student,0,Uttrakhand,Male,Sports,10,Instagram,No,5,4,4,5,5,4,5,4,5,4,5,5,5
+7/20/2021 19:46:21,25,Student,100000,Lucknow,Male,Sports,2,Instagram,Yes,3,2,2,2,1,2,1,1,2,1,2,1,2
+7/20/2021 19:48:03,22,Student,0,Ghaziabad,Male,"Sports, Technology and Internet, Current Affairs, Politics and Law",6,Instagram,No,5,1,3,4,5,5,5,5,5,3,1,2,2
+7/20/2021 19:50:41,17,Student,,Khatima Uttarakhand,Female,Music & Dance,10,Whatsapp,No,5,2,3,4,4,5,4,5,5,1,3,4,1
+7/20/2021 19:52:10,20,Student,,Roorkee,Female,"Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",6,"Instagram, Pinterest, YouTube",Yes,5,4,3,4,3,4,4,4,3,2,2,4,1
+7/20/2021 19:56:00,22,Student,0,Haldwani,Female,"Arts & Craft, Books & Movies",6,"Instagram, Pinterest",No,3,4,2,3,4,4,4,4,4,1,5,2,3
+7/20/2021 19:57:13,22,Student,,Ahmednagar,Male,Sports,5,"Instagram, Google Browsing",No,5,4,2,3,3,3,2,3,3,2,3,2,1
+7/20/2021 20:06:07,20,Student,,Khatima,Female,"Arts & Craft, Music & Dance, Stocks, Shares & Finances",4,"Instagram, Google Browsing, Pinterest",No,5,3,3,4,3,3,4,3,3,3,3,3,3
+7/20/2021 20:08:02,23,Unemployed,0,Kolkata,Female,"Music & Dance, Technology and Internet, Stocks, Shares & Finances",10,"Instagram, Google Browsing",No,5,1,1,2,1,1,1,1,1,1,1,2,5
+7/20/2021 20:09:49,24,Employed in a distribution company,500000,Gurgaon,Male,"Sports, Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Stocks, Shares & Finances",3,Instagram,Yes,5,4,3,2,1,3,4,5,4,3,4,4,4
+7/20/2021 20:15:29,22,Business/start-up Owner,400000,New delhi,Male,"Stocks, Shares & Finances",2,"Instagram, Google Browsing",No,4,5,4,5,5,5,5,5,5,5,4,4,4
+7/20/2021 20:17:07,22,Student,700000,Delhi,Male,"Sports, Current Affairs, Stocks, Shares & Finances",10,"Instagram, Google Browsing",No,5,3,4,4,5,4,4,4,4,5,4,5,4
+7/20/2021 20:27:10,26,Student,400000,Muzaffarpur,Male,"Arts & Craft, Music & Dance, Stocks, Shares & Finances",8,Ms team,No,1,1,1,1,1,5,5,5,5,5,5,5,5
+7/20/2021 20:36:51,25,Student,0,AGRA,Male,"Sports, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",18,"Instagram, Google Browsing, MS Teams",Yes,5,5,5,4,5,4,5,4,4,4,5,4,5
+7/20/2021 21:01:31,23,Student,50000,Patna,Male,"Sports, Music & Dance, Books & Movies, Technology and Internet, Stocks, Shares & Finances",5,Instagram,Yes,4,4,2,3,3,2,3,2,2,3,2,2,2
+7/20/2021 21:03:07,23,Student,,Lucknow,Female,"Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Politics and Law, Stocks, Shares & Finances",1,"Facebook, Google Browsing, Pinterest",Yes,4,4,5,5,5,5,5,5,5,4,4,5,3
+7/20/2021 21:10:16,21,Student,15000,Mainpuri,Male,"Sports, Arts & Craft, Music & Dance, Books & Movies, Current Affairs, Politics and Law, Stocks, Shares & Finances",6,Google Browsing,Yes,3,5,2,3,3,3,3,2,3,3,3,3,3
+7/20/2021 21:36:00,21,Student,300000,Varanasi,Male,Sports,17,Google Browsing,No,5,1,1,1,1,1,1,1,1,1,1,1,2
+7/20/2021 21:51:58,19,Student,,Lucknow,Male,Technology and Internet,12,"Instagram, Google Browsing",Yes,5,2,3,2,3,3,2,3,2,1,2,2,1
+7/20/2021 22:39:37,23,Student,0,New Delhi,Female,"Sports, Arts & Craft, Music & Dance, Books & Movies, Current Affairs",5,Whatsapp,No,3,4,4,4,4,3,4,4,3,4,3,4,3
+7/20/2021 22:45:34,22,Student,0,Kolkata,Female,"Sports, Music & Dance, Books & Movies, Current Affairs",12,Linkedin,No,4,5,3,3,4,5,3,5,4,5,4,4,3
+7/21/2021 8:11:57,23,Student,10000,khatima,Male,"Sports, Arts & Craft, Technology and Internet, Current Affairs",10,"Instagram, Google Browsing, pubg and whatsapp",No,4,2,2,4,4,4,2,2,4,3,3,3,3
+7/21/2021 16:39:25,23,Unemployed,0,Jalandhar,Male,"Sports, Arts & Craft, Music & Dance, Books & Movies, Technology and Internet, Current Affairs, Politics and Law",4,"Instagram, Facebook, Whatsapp",Yes,1,2,1,2,4,2,3,3,4,3,4,3,5
+7/22/2021 15:05:26,23,Student,100000,Nasik,Male,"Sports, Music & Dance, Books & Movies, Politics and Law, Stocks, Shares & Finances",4,"Instagram, Pinterest, Whatsapp",Yes,3,3,3,3,3,4,3,3,4,4,3,4,3
